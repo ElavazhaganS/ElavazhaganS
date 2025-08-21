@@ -174,14 +174,43 @@
 </div>
 
 ---
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
+
 
 <p align="center">
-  <img src="https://github.com/ElavazhaganS?tab=repositories" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="180em"/>
+
+  <img src="https://komarev.com/ghpvc/?username=vinithprakash&label=Profile%20Views&color=green&style=for-the-badge"/>
+
+  <img src="https://img.shields.io/github/followers/vinithprakash?label=Followers&style=for-the-badge&color=blue"/>
+
+  <img src="https://img.shields.io/github/stars/vinithprakash?label=Stars&style=for-the-badge&color=orange"/>
+
 </p>
 
+
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="180em"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=vinithprakash&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117,161b22,0d1117" height="180em"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinithprakash&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117,161b22,0d1117" height="180em"/>
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinithprakash&theme=transparent&hide_border=true&bg_color=0d1117,161b22,0d1117" height="180em"/>
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinithprakash&theme=react-dark&bg_color=0d1117&hide_border=true&line=38bdae&color=38bdae" height="250em"/>
+
 </p>
 
