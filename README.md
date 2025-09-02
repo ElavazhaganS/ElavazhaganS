@@ -176,41 +176,21 @@
 ---
 ## 📊 GitHub Stats
 
-
-
 <p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=Elavazhagan S&label=Profile%20Views&color=green&style=for-the-badge"/>
-
-  <img src="https://img.shields.io/github/followers/Elavazhagan S?label=Followers&style=for-the-badge&color=blue"/>
-
-  <img src="https://img.shields.io/github/stars/Elavazhagan S?label=Stars&style=for-the-badge&color=orange"/>
-
+  <img src="https://komarev.com/ghpvc/?username=ElavazhaganS&label=Profile%20Views&color=green&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/ElavazhaganS?label=Followers&style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/stars/ElavazhaganS?label=Stars&style=for-the-badge&color=orange"/>
 </p>
 
-
-
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Elavazhagan S&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117,161b22,0d1117" height="180em"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elavazhagan S&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117,161b22,0d1117" height="180em"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ElavazhaganS&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117,161b22,0d1117" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElavazhaganS&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117,161b22,0d1117" height="180em"/>
 </p>
 
-
-
 <p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elavazhagan S&theme=transparent&hide_border=true&bg_color=0d1117,161b22,0d1117" height="180em"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElavazhaganS&theme=transparent&hide_border=true&bg_color=0d1117,161b22,0d1117" height="180em"/>
 </p>
 
-
-
 <p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elavazhagan S&theme=react-dark&bg_color=0d1117&hide_border=true&line=38bdae&color=38bdae" height="250em"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElavazhaganS&theme=react-dark&bg_color=0d1117&hide_border=true&line=38bdae&color=38bdae" height="250em"/>
 </p>
-
