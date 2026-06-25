@@ -101,7 +101,7 @@
       <b>AWS</b>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="90" height="90"/><br/>
+      <img src="https://share.google/d7Fvsjmg3GO1bSaeO" width="90" height="90"/><br/>
       <b>Azure</b>
     </td>
     <td align="center" width="140">
