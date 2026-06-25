@@ -101,7 +101,8 @@
       <b>AWS</b>
     </td>
     <td align="center" width="140">
-      <img src="https://share.google/d7Fvsjmg3GO1bSaeO" width="90" height="90"/><br/>
+      <img src="<img width="308" height="164" alt="image" src="https://github.com/user-attachments/assets/8674ce53-f4cc-4ff1-ae0a-68142db28b6f" />
+" width="90" height="90"/><br/>
       <b>Azure</b>
     </td>
     <td align="center" width="140">
